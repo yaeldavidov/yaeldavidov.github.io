@@ -12,3 +12,9 @@ body {
 body a {
   color: $linkColor
 }
+
+  a {
+    &:hover {
+      text-decoration: underline;
+    }
+  }
