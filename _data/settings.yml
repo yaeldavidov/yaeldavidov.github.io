@@ -3,7 +3,7 @@ menu:
 - {name: 'research', url: '/research'}
 - {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+#- {name: 'contact', url: '/contact'}
 
 teaching:
 - {name: 'Vector Calculus', url: 'vector-calculus'}
