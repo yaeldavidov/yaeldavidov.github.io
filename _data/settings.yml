@@ -2,8 +2,7 @@ menu:
 - {name: 'about me', url: '/'}
 - {name: 'research', url: '/research'}
 - {name: 'teaching', url: '/teaching'}
-#- {name: 'service', url:'/service'}
-#- {name: 'service & other activities', url: '/service'}
+- {name: 'service & other activities', url: '/service'}
 - {name: 'cv', url: '/cv'}
 
 
