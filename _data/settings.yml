@@ -1,8 +1,8 @@
 menu:
-- {name: 'about me', url: '/'}
+- {name: 'about', url: '/'}
 - {name: 'research', url: '/research'}
 - {name: 'teaching', url: '/teaching'}
-- {name: 'service & other activities', url: '/service'}
+- {name: 'service', url: '/service'}
 - {name: 'cv', url: '/cv'}
 
 
