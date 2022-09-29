@@ -2,7 +2,7 @@ menu:
 - {name: 'about', url: '/'}
 - {name: 'research', url: '/research'}
 - {name: 'teaching', url: '/teaching'}
-- {name: 'service', url: '/service'}
+- {name: 'other', url: '/other'}
 - {name: 'cv', url: '/cv'}
 
 
