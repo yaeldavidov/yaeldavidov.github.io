@@ -18,7 +18,7 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/yael-davidov-42962566'}
 
 contacts:
-- {name: 'Yael Davidov', title: 'Graduate Student', department: 'Mathematics', institution: 'Rutgers University', email: 'yael.davidov@rutgers.edu', office: 'Hill Center Room 620', image: 'assets/img/contact.jpeg'}
+- {name: 'Yael Davidov', title: 'Assistant Professor', department: 'Mathematics', institution: 'University of Delaware', email: 'ydavidov@udel.edu', office: '', image: 'assets/img/contact.jpeg'}
 
 email:
 - 'yd209@math.rutgers.edu'
